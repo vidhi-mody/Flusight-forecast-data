@@ -1,0 +1,10 @@
+forecast_date,target,target_end_date,location,type,quantile,value
+2021-12-13,1 wk ahead inc death,2021-12-18,US,point,NA,5970
+2021-12-13,1 wk ahead inc death,2021-12-18,US,quantile,0.01,3958
+2021-12-13,1 wk ahead inc death,2021-12-18,US,quantile,0.025,4614
+2021-12-13,1 wk ahead inc death,2021-12-18,US,quantile,0.05,4925.1
+2021-12-13,1 wk ahead inc death,2021-12-18,US,quantile,0.1,5152.8
+2021-12-13,1 wk ahead inc death,2021-12-18,US,quantile,0.15,5309.6
+2021-12-13,1 wk ahead inc death,2021-12-18,US,quantile,0.2,5437.1
+2021-12-13,1 wk ahead inc death,2021-12-18,US,quantile,0.25,5547.3
+2021-12-13,1 wk ahead inc death,2021-12-18,US,quantile,0.3,5645.8

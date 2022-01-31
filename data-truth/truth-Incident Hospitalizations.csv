@@ -1966,7 +1966,7 @@ date,location,location_name,value
 2020-11-14,02,Alaska,0
 2020-11-14,01,Alabama,23
 2020-11-14,05,Arkansas,7
-2020-11-14,04,Arizona,25
+2020-11-14,04,Arizona,26
 2020-11-14,06,California,44
 2020-11-14,08,Colorado,3
 2020-11-14,09,Connecticut,0
@@ -2008,7 +2008,7 @@ date,location,location_name,value
 2020-11-14,46,South Dakota,2
 2020-11-14,47,Tennessee,36
 2020-11-14,48,Texas,145
-2020-11-14,US,US,585
+2020-11-14,US,US,586
 2020-11-14,49,Utah,1
 2020-11-14,51,Virginia,25
 2020-11-14,78,Virgin Islands,4
@@ -5327,7 +5327,7 @@ date,location,location_name,value
 2022-01-22,16,Idaho,3
 2022-01-22,17,Illinois,18
 2022-01-22,18,Indiana,28
-2022-01-22,20,Kansas,22
+2022-01-22,20,Kansas,18
 2022-01-22,21,Kentucky,23
 2022-01-22,22,Louisiana,7
 2022-01-22,25,Massachusetts,55
@@ -5356,7 +5356,7 @@ date,location,location_name,value
 2022-01-22,46,South Dakota,18
 2022-01-22,47,Tennessee,27
 2022-01-22,48,Texas,99
-2022-01-22,US,US,1138
+2022-01-22,US,US,1134
 2022-01-22,49,Utah,5
 2022-01-22,51,Virginia,54
 2022-01-22,78,Virgin Islands,0

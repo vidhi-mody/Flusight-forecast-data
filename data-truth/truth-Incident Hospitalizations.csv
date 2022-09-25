@@ -7165,7 +7165,7 @@ date,location,location_name,value
 2022-09-17,18,Indiana,26
 2022-09-17,20,Kansas,0
 2022-09-17,21,Kentucky,3
-2022-09-17,22,Louisiana,17
+2022-09-17,22,Louisiana,18
 2022-09-17,25,Massachusetts,2
 2022-09-17,24,Maryland,8
 2022-09-17,23,Maine,0
@@ -7174,7 +7174,7 @@ date,location,location_name,value
 2022-09-17,29,Missouri,6
 2022-09-17,28,Mississippi,32
 2022-09-17,30,Montana,1
-2022-09-17,37,North Carolina,20
+2022-09-17,37,North Carolina,17
 2022-09-17,38,North Dakota,0
 2022-09-17,31,Nebraska,7
 2022-09-17,33,New Hampshire,3
@@ -7192,7 +7192,7 @@ date,location,location_name,value
 2022-09-17,46,South Dakota,7
 2022-09-17,47,Tennessee,20
 2022-09-17,48,Texas,122
-2022-09-17,US,US,644
+2022-09-17,US,US,642
 2022-09-17,49,Utah,0
 2022-09-17,51,Virginia,28
 2022-09-17,78,Virgin Islands,0

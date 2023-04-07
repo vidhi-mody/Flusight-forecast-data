@@ -8644,13 +8644,13 @@ date,location,location_name,value
 2023-03-25,40,Oklahoma,20
 2023-03-25,41,Oregon,3
 2023-03-25,42,Pennsylvania,97
-2023-03-25,72,Puerto Rico,23
+2023-03-25,72,Puerto Rico,25
 2023-03-25,44,Rhode Island,2
 2023-03-25,45,South Carolina,25
 2023-03-25,46,South Dakota,21
 2023-03-25,47,Tennessee,33
 2023-03-25,48,Texas,136
-2023-03-25,US,US,1261
+2023-03-25,US,US,1263
 2023-03-25,49,Utah,2
 2023-03-25,51,Virginia,51
 2023-03-25,78,Virgin Islands,0
@@ -8660,56 +8660,56 @@ date,location,location_name,value
 2023-03-25,54,West Virginia,15
 2023-03-25,56,Wyoming,0
 2023-04-01,02,Alaska,0
-2023-04-01,01,Alabama,27
-2023-04-01,05,Arkansas,20
-2023-04-01,04,Arizona,38
-2023-04-01,06,California,40
-2023-04-01,08,Colorado,6
-2023-04-01,09,Connecticut,16
-2023-04-01,11,District of Columbia,9
+2023-04-01,01,Alabama,25
+2023-04-01,05,Arkansas,23
+2023-04-01,04,Arizona,37
+2023-04-01,06,California,32
+2023-04-01,08,Colorado,5
+2023-04-01,09,Connecticut,15
+2023-04-01,11,District of Columbia,11
 2023-04-01,10,Delaware,2
-2023-04-01,12,Florida,154
-2023-04-01,13,Georgia,50
-2023-04-01,15,Hawaii,4
+2023-04-01,12,Florida,165
+2023-04-01,13,Georgia,54
+2023-04-01,15,Hawaii,7
 2023-04-01,19,Iowa,4
-2023-04-01,16,Idaho,1
-2023-04-01,17,Illinois,36
-2023-04-01,18,Indiana,38
-2023-04-01,20,Kansas,6
-2023-04-01,21,Kentucky,16
-2023-04-01,22,Louisiana,22
-2023-04-01,25,Massachusetts,8
-2023-04-01,24,Maryland,8
-2023-04-01,23,Maine,5
-2023-04-01,26,Michigan,16
-2023-04-01,27,Minnesota,8
-2023-04-01,29,Missouri,27
-2023-04-01,28,Mississippi,22
+2023-04-01,16,Idaho,2
+2023-04-01,17,Illinois,27
+2023-04-01,18,Indiana,39
+2023-04-01,20,Kansas,7
+2023-04-01,21,Kentucky,13
+2023-04-01,22,Louisiana,26
+2023-04-01,25,Massachusetts,13
+2023-04-01,24,Maryland,10
+2023-04-01,23,Maine,4
+2023-04-01,26,Michigan,20
+2023-04-01,27,Minnesota,10
+2023-04-01,29,Missouri,31
+2023-04-01,28,Mississippi,21
 2023-04-01,30,Montana,1
-2023-04-01,37,North Carolina,13
-2023-04-01,38,North Dakota,0
-2023-04-01,31,Nebraska,8
+2023-04-01,37,North Carolina,14
+2023-04-01,38,North Dakota,1
+2023-04-01,31,Nebraska,10
 2023-04-01,33,New Hampshire,9
 2023-04-01,34,New Jersey,38
-2023-04-01,35,New Mexico,7
-2023-04-01,32,Nevada,2
-2023-04-01,36,New York,65
-2023-04-01,39,Ohio,24
-2023-04-01,40,Oklahoma,24
-2023-04-01,41,Oregon,5
-2023-04-01,42,Pennsylvania,87
-2023-04-01,72,Puerto Rico,43
+2023-04-01,35,New Mexico,8
+2023-04-01,32,Nevada,3
+2023-04-01,36,New York,79
+2023-04-01,39,Ohio,30
+2023-04-01,40,Oklahoma,22
+2023-04-01,41,Oregon,6
+2023-04-01,42,Pennsylvania,88
+2023-04-01,72,Puerto Rico,42
 2023-04-01,44,Rhode Island,0
-2023-04-01,45,South Carolina,20
-2023-04-01,46,South Dakota,12
-2023-04-01,47,Tennessee,39
-2023-04-01,48,Texas,156
-2023-04-01,US,US,1240
-2023-04-01,49,Utah,7
+2023-04-01,45,South Carolina,21
+2023-04-01,46,South Dakota,13
+2023-04-01,47,Tennessee,48
+2023-04-01,48,Texas,149
+2023-04-01,US,US,1289
+2023-04-01,49,Utah,3
 2023-04-01,51,Virginia,52
 2023-04-01,78,Virgin Islands,0
 2023-04-01,50,Vermont,0
-2023-04-01,53,Washington,31
-2023-04-01,55,Wisconsin,7
-2023-04-01,54,West Virginia,7
-2023-04-01,56,Wyoming,0
+2023-04-01,53,Washington,33
+2023-04-01,55,Wisconsin,4
+2023-04-01,54,West Virginia,11
+2023-04-01,56,Wyoming,1
